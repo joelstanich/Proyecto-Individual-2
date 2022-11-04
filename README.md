@@ -23,4 +23,8 @@ En este caso el modelo de Clasificación fue un árbol de Decisión
 ![winml-model-flow](https://user-images.githubusercontent.com/105226041/200028588-39f5664f-04e2-4f11-98f7-c914fc9f712b.png)
 
 Todo el proceso se llevo adelante en Python, utilizando diferentes librerias tales como: Pandas, Numpy, matplotlib, seaborn, missingno, folium y sklearn, necesarias para las diferentes etapas del Proceso.
-En 
+
+En el Repositorio se incluyen:      PI2.ipynb (codigo completo de todo el proceso, con comentarios detallados de cada operación.)
+                                    Readme.md
+                                    joelstanich.csv (valores de las predicciones)
+                                    datasets provistos, comprimidos en formato .rar
