@@ -3,6 +3,7 @@
 Este trabajo forma parte de la 2 instancia de los trabajos Individuales de la carrera de Data Science de Henry.
 
 El problema se desarrolla de acuerdo a la necesidad de una importante empresa inversora dentro del rubro de la inmobiliaria en Colombia, con el fin de que se implemente un modelo de clasificación que permita clasificar el precio de las propiedades en venta. 
+(https://github.com/joelstanich/Proyecto-Individual-2/blob/main/src/proceso.png)
 Para lograr el objetivo es necesario realizar diferentes procedimientos con los datos provistos, que se detallan a continuación:
 <img src="https://github.com/joelstanich/Proyecto-Individual-2/blob/main/src/proceso.png"width=300>
 EDA: es la sigla en inglés para Exploratory Data Analysis y consiste en una de las primeras tareas que se tienen que realizar.
